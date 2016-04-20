@@ -1,0 +1,46 @@
+﻿ body {
+    background: #eeeeee;
+	   }
+.backend {
+    background: black;
+    height: 790px;
+          }
+.middle {
+    background: #eeeeee;
+    border-radius: 0px 0px 4px 4px;
+    height: 785px;
+        }
+.wrapper { 
+    background: white;
+    box-shadow: 0 0 5px;
+    margin: auto;
+    width: 512px;
+    padding: 50px 50px;
+          }
+ p { 
+    padding-left: 13px;
+   } 
+h1 {
+    margin: 0 auto;
+    text-align: center;
+	font-size: 25px;
+   }
+img {
+    display: block;
+    height: 150px;
+    width: 110px;
+    margin: 0 auto;
+    padding: 10px 0px;
+     }
+.header, 
+.reason,
+.contact {
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-bottom: 1px solid #acacac;
+         }
+.Feedback {
+    border-bottom: none;
+    padding-left: 10px;
+          }
+ 
